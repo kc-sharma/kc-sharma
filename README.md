@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kc-sharma
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on my current project
+- 💞️ I’m looking for collaborations on my projects
 - 📫 How to reach me 9981847811
 
 <!---
